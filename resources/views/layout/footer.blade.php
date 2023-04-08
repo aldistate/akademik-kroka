@@ -1,7 +1,7 @@
 <!-- footer content -->
 <footer>
   <div class="pull-right">
-    Gentelella - Bootstrap Admin Template by <a href="https://colorlib.com">Colorlib</a>
+    Sisten Informasi Akademik Unkroka by <a href="https://colorlib.com">AldiState</a>
   </div>
   <div class="clearfix"></div>
 </footer>
